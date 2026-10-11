@@ -85,8 +85,8 @@ equations, numerics, and every input in detail.
 
 ## Citation
 
-da Silva, C. L., Pantuso, J. G., et al., "The velocity profile of intracloud lightning dart
-leaders in the absence of driving fields," in preparation.
+da Silva, C. L., Pantuso, J. G., et al., "Dart leader propagation in the absence of driving
+fields," in preparation.
 
 ## License
 
